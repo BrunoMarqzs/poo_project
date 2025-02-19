@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1738880548 source:c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projetopoo1.0\carteira.cpp
+	"Carteira.h"
+	<iostream>
+	<cstring>
+
+1738880111 c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projetopoo1.0\carteira.h
+
+1738880879 source:c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projetopoo1.0\exchange.cpp
+	"Exchange.h"
+	"Carteira.h"
+	"Transacao.h"
+
+1738880878 c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projetopoo1.0\exchange.h
+
+1738880111 c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projetopoo1.0\transacao.h
+
+1738880548 source:c:\users\bruno\onedrive\documentos\bruno\1º período\prog\projeto final 2\projetopoo1.0\transacao.cpp
+	"Transacao.h"
+	"Carteira.h"
+	<iostream>
+	<cstring>
+
