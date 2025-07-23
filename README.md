@@ -1,10 +1,22 @@
-# Bem vindo ao Projeto de Programação Orientada a Objetos
+# 💰 Crypto Exchange 
 
-## Informações do Projeto
+## Project info
 
-O projeto é uma corretora de criptomoedas que gerencia ações e transações financeiras de sue usuário assim como dados da conta/carteira do mesmo.
-Foi desenvolvido visando aplicar os conhecimentos adquiridos no curso de Programação Orientada a Objetos na UFPB.
+> [PT/BR] Esse projeto foi desenvolvido visando colcolar em prática parte do apredizado do curso de Programação Orientada a objetos na UFPB
+> O objetivo principal foi desenvolver um sistema de uma corretora de Criptomoedas que gerencia ações e transações financeiras de sue usuário assim como dados da conta/carteira do mesmo
 
-## Quais as tecnologias foram usadas para este projeto?
+## 🚀 Deployment
 
-- C++
+The backend was developed in **C++** 
+
+## 🧭 Future Improvements
+
+- [ ] **A frontend application** for better visual analysis of this program
+- [ ] **New features** such as sending from one user to another
+
+```py
+- # 📓 Authors Info
+
+# Bruno Marques, brunorodriguescvo@gmail.com
+
+```
